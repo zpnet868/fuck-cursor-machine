@@ -6,6 +6,6 @@
 ### 下载 Cursor 0.44.11
 - **官方下载**: [点击下载](https://downloader.cursor.sh/builds/250103fqxdt5u9z/windows/nsis/x64)  
 - **ToDesk 下载**: [点击下载](https://download.todesktop.com/230313mzl4w4u92/Cursor%20Setup%200.44.11%20-%20Build%20250103fqxdt5u9z-x64.exe)
-******* 安装完不要关闭,运行一次程序 *******
-******* 运行后cmd: ipconfig /flushdns *******
-******* 如果打开cursor又更新了,卸载重新安装即可 *******
+- 安装完不要关闭,运行一次程序
+- 运行后cmd: ipconfig /flushdns
+- 如果打开cursor又更新了,卸载重新安装即可
